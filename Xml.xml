@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc>
+    <id>5</id>
+    <fam>Иванов</fam>
+    <name>Дмитрий</name>
+    <otc>Александрович</otc>
+    <dateb>05.05.1998</dateb>
+    <datep>12.07.1999</datep>
+    <datev>04.04.2000</datev>
+    <datebegin>12.04.1995</datebegin>
+    <dateend>04.12.2005</dateend>
+    <vdolid>50</vdolid>
+    <specid>45</specid>
+    <klavid>7</klavid>
+    <stav>4.0</stav>
+    <progid>7</progid>
+</doc>
